@@ -22,17 +22,5 @@ This Article will Provide the overview of Quality Assurance Alice Testing Domain
  
                       
 ![Automation and Developement](https://i.imgur.com/Hbc9XfG.png)
-
-## ðŸš¦ Wrap Up
-
-If you think any of the roadmaps can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to watch/star this repository to revisit.
-
-## ðŸ™Œ Contribution
-
-> Have a look at [contribution docs](./contributing.md) for how to update any of the roadmaps
-
-- Open pull request with improvements
-- Discuss ideas in issues
-- Spread the word
  
 Please, :star: it if you like it or you learned something after :clap: :clap: 
